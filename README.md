@@ -2,6 +2,8 @@
 
 This is the grid based theme for Hugo.
 
+Cloned from [this repo](https://github.com/dim0627/hugo_theme_robust)
+
 [Hugo :: A fast and modern static website engine](https://gohugo.io/)
 
 ## PC View
